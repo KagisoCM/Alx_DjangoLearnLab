@@ -1,24 +1,8 @@
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.sqlite3
-*.log
 
-# Virtual environments
+# Environment
 venv/
-ENV/
-env/
-*.env
-
-# Django
-*.sqlite3
-db.sqlite3
-/media
-/staticfiles
-
-# VSCode
-.vscode/
-
-# OS
-.DS_Store
-Thumbs.db
+.env
