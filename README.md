@@ -30,10 +30,3 @@ This project simulates a basic library system where users can manage books and a
 | Dev Tools     | Git, GitHub      |
 
 ---
-
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/KagisoCM/Alx_DjangoLearnLab.git
-   cd Alx_DjangoLearnLab
